@@ -1,5 +1,20 @@
 # Password Generator 
 
+
+
+
+
+# Table of Contents 
+• Description
+
+
+•Navigation
+
+•Screenshot of Site
+
+• Links
+
+• References
 # Description
 
 This is a application that enables employees (or any user) to generate one random password at a time based on the criteria that they’ve selected. 
