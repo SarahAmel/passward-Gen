@@ -23,22 +23,25 @@ If the user made a mistake the user may simply just refresh the page and start t
 
 
 # Screenshot of site 
-
+![screenshot](./assets/images/Screenshot-pass-gen.png)
 
 # Links 
 
 
-Repo link:         https://github.com/SarahAmel/passward-Gen
+[Repo link](https://github.com/SarahAmel/passward-Gen)        
 
 
 
 
-live link:          https://sarahamel.github.io/passward-Gen/
+
+
+
+[live link](https://sarahamel.github.io/passward-Gen/)
 
 
 
 
-Linkedin Link:     https://www.linkedin.com/in/sarah-attar-477312235/
+[Linkedin Link](https://www.linkedin.com/in/sarah-attar-477312235/)
 
 
 # Contact 
@@ -51,7 +54,7 @@ Email: sarahattar76@gmail.com
 
 
 
-# references
+# References
 The play back zoom videos from Unit 3 helped immensely.
 
 
